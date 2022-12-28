@@ -1,0 +1,11 @@
+Script started on Fri 25 Feb 2022 07:18:26 PM PST
+]0;johns837@empress:~/Cs421files/HW2A_Matrix[?1034h[johns837@empress HW2A_Matrix]$ emacs mat.cp[3Pcd[C[C[C[C[C[C[Clscd HW2A_Matrlscd Cs421filelsemacs mat.cplscd HW2A_Matrlscd HW2A_Matrlsemacs mat.cplscd Cs421filelscd HW2A_Matrlscd mat.c[3@emacs[C[C[C[C[C[C[C[[Kemacs mat.cp[3Pcd[C[C[C[C[C[C[Clscd HW2A_Matrlscd Cs421filelsemacs mat.cplscd HW2A_Matrlscd Cs421filelseximacs mat.cpmore myfile.txlsmore Test1.t[[[[[Kg++ mat.cpp
+]0;johns837@empress:~/Cs421files/HW2A_Matrix[johns837@empress HW2A_Matrix]$ g++ mat.cp[2@emacs[C[C[C[C[C[C[C[[3Pcd[C[C[C[C[C[C[Clscd[[[K./a.out
+Reading table from lines.txt...
+0| m n o p q r - - - - - - 
+1| - - - - - - s t u v w x 
+2| - - - - - - - - - - - - 
+]0;johns837@empress:~/Cs421files/HW2A_Matrix[johns837@empress HW2A_Matrix]$ exit
+exit
+
+Script done on Fri 25 Feb 2022 07:19:07 PM PST
